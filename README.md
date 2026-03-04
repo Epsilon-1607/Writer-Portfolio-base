@@ -2,8 +2,6 @@
 
 Template portfolio untuk penulis — dibangun dengan PHP, HTML, dan Tailwind CSS. Tampilannya bergaya antik/steampunk dengan nuansa manuskrip dan sepia. Cocok untuk dipasang di hosting seperti InfinityFree, Niagahoster, atau server PHP manapun.
 
-![preview](preview.png)
-
 ---
 
 ## Tampilan
